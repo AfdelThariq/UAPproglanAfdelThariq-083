@@ -1,1 +1,3 @@
-# UAPproglanAfdelThariq-083
+# Program ntk menyimpan resep-resep masakan
+# Mudah Di gunakan
+# Managemen Resep
